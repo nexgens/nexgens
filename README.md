@@ -1,10 +1,10 @@
-# Welcome to NexGen Solutions!
+# Welcome to Dragon Solutions!
 
 ![Full Stack Developers](https://img.shields.io/badge/Full_Stack_Developers-%3C%2F%3E-brightgreen)
 
 ## About Us
 
-We are NexGen Solutions, a team of passionate Full Stack Developers dedicated to delivering innovative and scalable web applications. Our diverse expertise allows us to tackle complex challenges and create state-of-the-art solutions tailored to our clients' needs.
+We are Dragon Solutions, a team of passionate Full Stack Developers dedicated to delivering innovative and scalable web applications. Our diverse expertise allows us to tackle complex challenges and create state-of-the-art solutions tailored to our clients' needs.
 
 ## Our Skills
 
@@ -65,22 +65,22 @@ We are NexGen Solutions, a team of passionate Full Stack Developers dedicated to
 ## Socials
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JGm7uujrJJ)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nexgens)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dragons)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/comingsoon)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/nexgens)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/dragons)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/comingsoon)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@nexgensolutions.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@dragonsolutions.com)
 
 Thank you for visiting our GitHub profile! Feel free to explore our repositories and reach out if you're interested in collaborating or learning more about our work.
 
-## NexGen Solutions Stats
+## Dragon Solutions Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nexgens&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dragons&show_icons=true&theme=radical)
 
-![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=nexgens&theme=dark&hide_border=false)
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=dragons&theme=dark&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexgens&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragons&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/nexgens/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/dragons/count.svg)
